@@ -1,0 +1,8 @@
+#ifndef SPRITE_HELIFOLLOWER_H
+#define SPRITE_HELIFOLLOWER_H
+
+#include "main.h"
+
+DECLARE_SPRITE(SPRITE_HELIFOLLOWER);
+
+#endif

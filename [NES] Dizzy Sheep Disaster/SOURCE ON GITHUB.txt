@@ -1,0 +1,6 @@
+The source of this game is available of this zip because of the requirements of the contest I entered.
+
+That said, this is NOT THE RIGHT PLACE TO LOOK if you really want it! This just proves I didn't touch the code, 
+and gives a snapshop of what was entered into the contest. (As does the v1.0.0 git tag)
+
+Check it out here: https://github.com/cppchriscpp/do-sheep-dream-of-velcro

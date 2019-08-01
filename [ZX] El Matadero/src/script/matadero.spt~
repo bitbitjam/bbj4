@@ -1,0 +1,13 @@
+# Juego
+# Churrera Script
+
+# flags:
+# 1	- 
+
+ENTERING SCREEN 27
+	IF TRUE
+	THEN
+		WIN GAME
+	END
+END
+

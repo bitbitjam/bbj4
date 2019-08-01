@@ -1,0 +1,13 @@
+# Juego
+# Churrera Script
+
+# flags:
+# 1	- 
+
+ENTERING SCREEN 1
+	IF TRUE
+	THEN
+		SET FLAG 1 = 0
+	END
+END
+

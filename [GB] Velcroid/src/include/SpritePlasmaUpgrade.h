@@ -1,0 +1,8 @@
+#ifndef SPRITE_PLASMAUPGRADE_H
+#define SPRITE_PLASMAUPGRADE_H
+
+#include "main.h"
+
+DECLARE_SPRITE(SPRITE_PLASMAUPGRADE);
+
+#endif
