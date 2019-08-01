@@ -126,7 +126,7 @@ Team
 
 
 
-## Counting Sheep - cabbage (GB)
+## Counting Sheep - HuCABBAGE (GB)
 
 ![img](/[GB]%20Counting%20Sheep/title.jpg?raw=true) ![img](/[GB]%20Counting%20Sheep/ingame.jpg?raw=true)
 
@@ -182,3 +182,21 @@ Team
 * Music: McKlain
 
 ### [Check entry and source code](/[CPC]%20Velcro/) - [view on Game Jolt](https://gamejolt.com/games/velcro_bit/267501)
+
+
+# Final Classification
+
+## Best Sheep Velcro Game
+
+  1.  Polka Sheep (GB)
+  2.  Sticky Hooves In The Temple Of Vel-Cro (GB)
+
+## Best platform use
+
+  1.  Polka Sheep (GB)
+  2.  Sticky Hooves In The Temple Of Vel-Cro (GB)
+
+## Funniest Game
+
+  1.  Polka Sheep (GB)
+  2.  Sticky Hooves In The Temple Of Vel-Cro (GB)
