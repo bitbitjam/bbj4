@@ -181,4 +181,4 @@ Team
 * Code + GFX: @PixelArtM
 * Music: McKlain
 
-### [Check entry and source code](/[CPC]%20Velcro/) - [view on Game Jolt](http://gamejolt.com/games/2909/267383)
+### [Check entry and source code](/[CPC]%20Velcro/) - [view on Game Jolt](https://gamejolt.com/games/velcro_bit/267501)
