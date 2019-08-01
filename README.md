@@ -87,3 +87,98 @@ You're starting a small business carrying sheeps between different places  in th
 ### [Check entry and source code](/[GBC]%20Cheap%20sheep%20shipping/) - [view on Game Jolt](https://gamejolt.com/games/cheap-sheep-shipping/267390)
 
 
+## Polka Sheep (GB)
+
+![img](/[GB]%20Polka%20Sheep/title.jpg?raw=true) ![img](/[GB]%20Polka%20Sheep/ingame.jpg?raw=true)
+
+Help Polka Sheep rescue his friends using his velcro powers! He can get fastened to all velcro surfaces around. Avoid hundreds of evil wolves, thousands of kawaii parrots and millions of poisoned spikes to liberate all your friends!! It's an epic fight to restore peace in the flock.
+
+Credits
+ * Code by zal0
+ * Art, sfx and music by sergeeo
+ * Level design by kirblue
+
+### [Check entry and source code](/[GB]%20Polka%20Sheep/) - [view on Game Jolt](https://gamejolt.com/games/PolkaSheeep/267409)
+
+
+## Sheep is a Key  - superfrog (C64)
+
+![img](/[C64]%20Sheep%20is%20a%20Key/ingame.jpg?raw=true)
+
+Game entry form #bitbitjam4 platform: c64
+
+### [Check entry and source code](/[C64]%20Sheep%20is%20a%20Key/) - [view on Game Jolt](https://gamejolt.com/games/sheepakey/267427)
+
+
+
+## Sheep Kaboom (GB)
+
+![img](/[GB]%20Sheep%20Kaboom/game.png?raw=true)
+
+Hold A to charge the shoot. Release it to launch the sheep.
+Aim to the target and avoid the spikes.
+
+Team
+ * Design and programming: [Imanolea](https://twitter.com/Imanolea)
+ * Graphics: [Seiyouh](https://twitter.com/seiyouh)
+
+### [Check entry and source code](/[GB]%20Sheep%20Kaboom/) - [view on Game Jolt](https://gamejolt.com/games/Sheep-Kaboom/267428)
+
+
+
+## Counting Sheep - cabbage (GB)
+
+![img](/[GB]%20Counting%20Sheep/title.jpg?raw=true) ![img](/[GB]%20Counting%20Sheep/ingame.jpg?raw=true)
+
+This year I thought I would not have time to participate in bitbitjam. But midway through the week I decided to try to make something to submit anyway. So, this project was made in 4 evenings after work.
+
+### [Check entry and source code](/[GB]%20Counting%20Sheep/) - [view on Game Jolt](https://gamejolt.com/games/counting-sheep-gb/267440)
+
+
+## El Matadero - MeatBallTheory (ZX)
+
+![img](/[ZX]%20El%20Matadero/title.jpg?raw=true) ![img](/[ZX]%20El%20Matadero/ingame.jpg?raw=true)
+
+It is the adventure of a sheep that fight for scape from a slaughterhouse and lives again with her flock.
+
+### [Check entry and source code](/[ZX]%20El%20Matadero/) - [view on Game Jolt](https://gamejolt.com/games/matadero/267442)
+
+
+## Velcro - Frodewin (C64)
+
+![img](/[C64]%20Velcro/title.jpg?raw=true) ![img](/[C64]%20Velcro/ingame.jpg?raw=true)
+
+Velcro has been born with a unique mutation: His fur has tiny hooks, which attach to a woolly sheep on contact. This way, Velcro can gather the sheep faster than any other dog! In the game, the dog is running all the time in circles. Hold space to change the circle direction.
+
+### [Check entry and source code](/[C64]%20Velcro/) - [view on Game Jolt](https://gamejolt.com/games/velcro/267464)
+
+
+## Velcroid - Maikel Ortega (GB)
+
+![img](/[GB]%20Velcroid/title.jpg?raw=true) ![img](/[GB]%20Velcroid/ingame.jpg?raw=true)
+
+Explore planet Zeh-baas with clunky 1-key controls, bouncing around rocks (sheep-fu at its finest) and getting stuck to velcro moss in the jungles of Bleatstar. Kill some Velcroids on your way. And have fun. You're a spacesheep, damn it.
+
+### [Check entry and source code](/[GB]%20Velcroid/) - [view on Game Jolt](http://gamejolt.com/games/velcroid/267481)
+
+
+## Lumesse, búsqueda y captura - Agamer29 (ZX)
+
+![img](/[ZX]%20Lumesse%20-%20busqueda%20y%20captura/ingame.jpg?raw=true)
+
+You are Lumesse, the new robot in the office. Capture sheeps and get fun!
+
+### [Check entry and source code](/[ZX]%20Lumesse%20-%20busqueda%20y%20captura/) - [view on Game Jolt](http://gamejolt.com/games/2909/267383)
+
+
+## Velcro (Amstrad CPC)
+
+![img](/[CPC]%20Velcro/title.jpg?raw=true) ![img](/[CPC]%20Velcro/ingame.jpg?raw=true)
+
+Velcro needs money so she buy a wagon mine to collect some gold ingots.
+
+Team 
+* Code + GFX: @PixelArtM
+* Music: McKlain
+
+### [Check entry and source code](/[CPC]%20Velcro/) - [view on Game Jolt](http://gamejolt.com/games/2909/267383)
